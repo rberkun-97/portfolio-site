@@ -1,0 +1,17 @@
+.header-container {
+    background-color: darkslategrey;
+    display: flex;
+    padding: 20px 50px;
+    justify-content: space-between;
+}
+
+.header-right {
+    padding-right: 70px;
+}
+
+a {
+    padding: 10px;
+    font-size: 1.3rem;
+    text-decoration: none;
+    color: pink;
+}
